@@ -1,2 +1,2 @@
 # bytebbs.githud.io
-ByteBBS
+https://bytebbs.rth5.com
